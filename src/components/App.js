@@ -7,7 +7,7 @@ import Counter from "./Counter";
 function App({ users }) {
   return (
     <>
-      <Counter />
+      <Counter/>
 
       <UserList users={users} />
     </>
